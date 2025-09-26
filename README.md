@@ -54,11 +54,6 @@ To reproduce this analysis on your own machine, follow these steps:
 
   ## Key Finding: Geographic Price Variation
 
-!(images/Average Price per Borough.png)
-!(images/Average Price per Room Type.png)
-!(images/Top 20 Words in Listing Descriptions.png)
-!(images/Top Ten Neighborhoods with Lowest Average Prices.png)
-
 Fix: Display price map image in README<img width="848" height="625" alt="Top Ten Neighborhoods with Lowest Average Prices" src="https://github.com/user-attachments/assets/fd956575-5da2-43ea-a735-5ba5193326a2" />
 <img width="912" height="547" alt="Top 20 Words in Listing Descriptions" src="https://github.com/user-attachments/assets/0852a58d-d47d-4b95-9a53-dd2689606f80" />
 <img width="988" height="590" alt="Average Price per Room Type" src="https://github.com/user-attachments/assets/ff4a5c70-0dd0-4746-abf0-e97e730d5e1d" />
