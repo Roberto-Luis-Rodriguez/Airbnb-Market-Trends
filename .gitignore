@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Add this line to ignore all executable files on Windows
+*.exe
+
+# Add this line to explicitly ignore the installer (optional, but clean)
+Git-2.51.0-64-bit.exe
+
+# Also make sure these are included for Data Science best practices
+.ipynb_checkpoints/
+.DS_Store
