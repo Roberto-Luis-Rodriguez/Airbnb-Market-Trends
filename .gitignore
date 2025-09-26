@@ -215,3 +215,6 @@ Git-2.51.0-64-bit.exe
 # Also make sure these are included for Data Science best practices
 .ipynb_checkpoints/
 .DS_Store
+
+#  If your raw data file is large, ignore the entire data/ folder
+data/
