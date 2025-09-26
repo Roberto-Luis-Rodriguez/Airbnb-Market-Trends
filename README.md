@@ -52,4 +52,11 @@ To reproduce this analysis on your own machine, follow these steps:
     ```
     The notebook will open in your web browser, allowing you to execute the cells and review the analysis.
 
+  ## Key Finding: Geographic Price Variation
+
+!(images/Average Price per Borough.png)
+!(images/Average Price per Room Type.png)
+!(images/Top 20 Words in Listing Descriptions.png)
+!(images/Top Ten Neighborhoods with Lowest Average Prices.png)
+
 --- Add comprehensive README.md
